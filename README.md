@@ -129,11 +129,13 @@ Suggest suitable use cases for each API.
 ## AI-Generated Insights
 
 OpenAI API is better for academic work because it:
+
 ✔ Produces logically structured content
 ✔ Offers clearer explanations
 ✔ Handles context better
 
 HuggingFace GPT-2 is useful for:
+
 ✔ Creative text generation
 ✔ Autocomplete
 ✔ Local/offline inference
